@@ -6,6 +6,7 @@ class Aula01 extends Component {
         return(
             <View style={ styles.container }>
                 <Text>ESTRUTURA PADRÃO</Text>
+                <Text>ESTRUTURA PADRÃO</Text>
             </View>
         );
     }
